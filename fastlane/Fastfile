@@ -348,13 +348,10 @@ desc "Upload metadata"
                   add_id_info_uses_idfa: true,
             },
             app_review_information: {
-                first_name: "Sergii",
-                last_name: "Leshchenko",
-                phone_number: "+380686302002",
-                email_address: "lsergij930@gmail.com",
-                demo_username: "tester",
-                demo_password: "123456",
-                notes: "Testing info"
+                first_name: "Olena",
+                last_name: "Kara",
+                phone_number: "+380972291613",
+                email_address: "Karaolena43@gmail.com"
               },
             reject_if_possible: false,
             overwrite_screenshots: true,
@@ -369,6 +366,7 @@ desc "Upload metadata"
     end
 
 end
+
 
 
 
