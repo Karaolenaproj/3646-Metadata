@@ -1,0 +1,9 @@
+Beak of Duty adalah game pertahanan roguelite. Tugas Anda? Bertahan dari serangan gencar yang akan datang melalui beberapa musim, setiap musim memiliki musuh dan bosnya sendiri.
+
+Di awal, Anda memiliki tim pahlawan yang kecil, tetapi seiring bermain dan mendapatkan mata uang dalam game, Anda akan dapat membuka lebih banyak dan memperluas daftar pahlawan Anda. Setiap pahlawan memiliki statistik dan kemampuan yang unik, masing-masing pahlawan dapat ditingkatkan secara terpisah untuk lebih meningkatkan statistik mereka.
+
+Anda memulai setiap level dengan memilih dua pahlawan dari tim awal Anda, lalu bertahan selama 10 gelombang, setelah setiap gelombang, naikkan level atau tambahkan pahlawan ke grup bertahan. Setelah mengalahkan bos di gelombang kesepuluh, Anda akan dapat melanjutkan ke level berikutnya. Ulangi tiga kali, masing-masing lebih sulit dari yang sebelumnya dan lanjutkan ke musim berikutnya.
+
+Selesaikan musim dan capaian untuk mendapatkan lebih banyak koin. Selain membuka pahlawan baru atau meningkatkan yang sudah Anda miliki, Anda juga dapat membeli item bonus untuk membantu Anda mengalahkan gelombang. Hati untuk menyembuhkan pahlawan Anda, Bom untuk melukai musuh.
+
+Kumpulkan tim pahlawan yang unik dan kuat, bertahan hidup di semua musim dan taklukkan tantangan Beak of Duty!

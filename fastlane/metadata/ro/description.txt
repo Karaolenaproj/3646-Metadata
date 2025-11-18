@@ -1,0 +1,9 @@
+Beak of Duty este un joc de apărare roguelite. Sarcina ta? Supraviețuiește atacului care se apropie de-a lungul mai multor sezoane, fiecare dintre sezoane având propriii inamici și șefi.
+
+La început ai o echipă mică de eroi, dar pe măsură ce joci și câștigi monedă de joc, vei putea debloca mai mulți și să-ți extinzi lista. Fiecare erou are statistici și abilități unice, fiecare dintre erou putând fi îmbunătățit separat pentru a-și îmbunătăți și mai mult statisticile.
+
+Începi fiecare nivel selectând doi eroi din echipa ta de început, apoi continui să supraviețuiești timp de 10 valuri, după fiecare val crescând niveluri sau adăugând eroi la grupul de apărare. După ce învingi șeful la valul zece, vei putea trece la nivelul următor. Repetă de trei ori, fiecare mai dificil decât precedentul și treci la sezonul următor.
+
+Finalează sezoanele și odată cu ele realizări pentru a câștiga mai multe monede. Pe lângă deblocarea de noi eroi sau îmbunătățirea celor pe care îi ai, poți cumpăra și obiecte bonus care să te ajute să învingi valuri. Inimă pentru vindecarea eroilor tăi, Bombă pentru daune provocate inamicilor.
+
+Adună o echipă de eroi unici și puternici, supraviețuiește tuturor anotimpurilor și învinge provocarea din Ciocul Datoriei!

@@ -1,0 +1,9 @@
+A Beak of Duty egy roguelite védekező játék. A feladatod? Túlélni a közeledő támadást több szezonon keresztül, mindegyik szezonnak megvannak a saját ellenségei és főellenségei.
+
+Kezdetben egy kis hőscsapatod van, de ahogy játszol és játékbeli pénznemben keresel, egyre többet oldhatsz fel és bővítheted a névsorodat. Minden hősnek egyedi statisztikái és képességei vannak, és mindegyik hős külön fejleszthető, hogy tovább növeld a statisztikáit.
+
+Minden szintet úgy kezdesz, hogy kiválasztasz két hőst a kezdőcsapatodból, majd 10 hullámon keresztül túlélsz, minden hullám után szintet lépsz, vagy hozzáadsz hősöket a védekező csoporthoz. Miután legyőzted a főellenséget a tizedik hullámban, továbbléphetsz a következő szintre. Ismételd meg háromszor, mindegyik nehezebb, mint az előző, és lépj tovább a következő szezonra.
+
+Teljesítsd a szezonokat és az azokkal járó eredményeket, hogy több érmét szerezz. Az új hősök feloldása vagy a meglévők fejlesztése mellett bónusz tárgyakat is vásárolhatsz, amelyek segítenek a hullámok legyőzésében. Szív a hősök gyógyításáért, bomba az ellenségek megsebzéséért.
+
+Állíts össze egy csapatot egyedi és erős hősökből, éld túl az összes évszakot és teljesítsd a Beak of Duty kihívását!

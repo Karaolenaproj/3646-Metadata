@@ -1,0 +1,9 @@
+Beak of Duty är ett roguelite-försvarsspel. Din uppgift? Överlev den annalkande anstormningen genom flera säsonger. Varje säsong har sina egna fiender och bosser.
+
+I början har du ett litet team av hjältar, men allt eftersom du spelar och tjänar spelvaluta kommer du att kunna låsa upp fler och utöka din lista. Varje hjälte har unika statistik och förmågor, och var och en av hjältarna kan uppgraderas separat för att ytterligare förbättra deras statistik.
+
+Du börjar varje nivå genom att välja två hjältar från ditt startlag och fortsätter sedan att surva i 10 vågor. Efter varje våg kan du få nivåhöjningar eller lägga till hjältar till den försvarande gruppen. Efter att ha besegrat bossen i våg tio kan du gå vidare till nästa nivå. Upprepa tre gånger, varje gång svårare än den förra, och gå vidare till nästa säsong.
+
+Slutför säsonger och med dem prestationer för att tjäna fler mynt. Förutom att låsa upp nya hjältar eller uppgradera de du redan har, kan du också köpa bonusföremål som hjälper dig att besegra vågor. Hjärta för att läka dina hjältar, bomb för att skada fiender.
+
+Sätt ihop ett team av unika och kraftfulla hjältar, överlev alla säsonger och besegra utmaningen i Beak of Duty!

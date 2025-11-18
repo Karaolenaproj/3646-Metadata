@@ -1,0 +1,9 @@
+Beak of Duty is a roguelite defense game. Your task? Survive the oncoming onslaught through multiple seasons, each of the seasons have its own enemies and bosess. 
+
+At the beginning you have a small team of heroes but as you play and earn in game currency you will be able to unlock more and expand your roster. Each hero has unique stats and abilities, each of the heroes can be upgraded separately to further boost their stats.
+
+You start each level by selecting two heroes of your starting team, then proceed surving for 10 waves, after each wave pick up level ups or add heroes to the defending group. After defeating the boss at wave ten you will be able to proceed to next level. Repeat three times, each more diffocult than the last and move on to the next season. 
+
+Complete seasons and with them achievments to earn more coins. Appart from unlocking new heroes or upgrading the ones you have, you can also buy bonus items to help you beating waves. Heart for healing your heroes, Bomb for damaging enemies.
+
+Assemble a team of unique and powerfull heroes, survive all the seasons and coquer the challange of Beak of Duty!

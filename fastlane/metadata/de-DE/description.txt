@@ -1,0 +1,9 @@
+Beak of Duty ist ein Roguelite-Verteidigungsspiel. Deine Aufgabe? Überlebe den Ansturm in mehreren Saisons. Jede Saison hat ihre eigenen Gegner und Bosse.
+
+Zu Beginn steht dir ein kleines Heldenteam zur Verfügung. Mit zunehmendem Spielverlauf und verdienter Spielwährung kannst du weitere Helden freischalten und dein Aufgebot erweitern. Jeder Held verfügt über einzigartige Werte und Fähigkeiten und kann einzeln verbessert werden, um seine Werte weiter zu steigern.
+
+Zu Beginn jedes Levels wählst du zwei Helden für dein Startteam aus und überlebst anschließend zehn Wellen. Nach jeder Welle kannst du Helden aufleveln oder dein Verteidigungsteam verstärken. Besiegst du den Boss in Welle zehn, gelangst du zum nächsten Level. Wiederhole dies dreimal. Jede Welle ist schwieriger als die vorherige, bevor du in die nächste Saison wechselst.
+
+Schließe Saisons und damit Erfolge ab, um mehr Münzen zu verdienen. Neben dem Freischalten neuer Helden und dem Verbessern deiner vorhandenen Helden kannst du auch Bonusgegenstände kaufen, die dir beim Bezwingen der Wellen helfen. Herz zum Heilen deiner Helden, Bombe zum Verursachen von Schaden an Feinden.
+
+Stelle ein Team aus einzigartigen und mächtigen Helden zusammen, überlebe alle Jahreszeiten und meistere die Herausforderung von Beak of Duty!

@@ -1,0 +1,9 @@
+Beak of Duty là một game phòng thủ theo phong cách roguelite. Nhiệm vụ của bạn là gì? Sống sót qua những đợt tấn công liên tiếp qua nhiều mùa, mỗi mùa đều có kẻ thù và trùm riêng.
+
+Ban đầu, bạn sẽ có một đội anh hùng nhỏ, nhưng khi chơi và kiếm được tiền trong game, bạn sẽ có thể mở khóa thêm và mở rộng đội hình của mình. Mỗi anh hùng đều có chỉ số và khả năng riêng biệt, mỗi anh hùng có thể được nâng cấp riêng biệt để tăng thêm chỉ số.
+
+Bạn bắt đầu mỗi cấp độ bằng cách chọn hai anh hùng trong đội hình ban đầu, sau đó tiếp tục sống sót qua 10 đợt, sau mỗi đợt, hãy nâng cấp hoặc thêm anh hùng vào nhóm phòng thủ. Sau khi đánh bại trùm ở đợt thứ mười, bạn sẽ có thể lên cấp độ tiếp theo. Lặp lại ba lần, mỗi lần khó hơn lần trước và chuyển sang mùa tiếp theo.
+
+Hoàn thành các mùa và đạt được thành tích để kiếm thêm tiền. Ngoài việc mở khóa các anh hùng mới hoặc nâng cấp những anh hùng hiện có, bạn cũng có thể mua các vật phẩm thưởng để giúp bạn vượt qua các đợt tấn công. Trái tim để hồi máu cho anh hùng, Bom để gây sát thương cho kẻ thù.
+
+Hãy tập hợp một đội anh hùng độc đáo và mạnh mẽ, sống sót qua mọi mùa giải và chinh phục thử thách của Beak of Duty!

@@ -1,0 +1,9 @@
+Beak of Duty est un jeu de défense roguelite. Votre mission ? Survivre aux assauts incessants des ennemis à travers plusieurs saisons. Chaque saison propose ses propres ennemis et boss.
+
+Au début, vous disposez d'une petite équipe de héros, mais en jouant et en gagnant de la monnaie virtuelle, vous pourrez en débloquer de nouveaux et agrandir votre équipe. Chaque héros possède des statistiques et des capacités uniques, et chacun peut être amélioré individuellement pour booster ses stats.
+
+Vous commencez chaque niveau en sélectionnant deux héros pour votre équipe de départ, puis vous devez survivre à 10 vagues d'ennemis. Après chaque vague, vous pouvez gagner des niveaux ou ajouter des héros à votre équipe. Une fois le boss de la dixième vague vaincu, vous accédez au niveau suivant. Répétez l'opération trois fois, chaque niveau étant plus difficile que le précédent, pour passer à la saison suivante.
+
+Terminez les saisons et débloquez des succès pour gagner encore plus de pièces. Outre le déblocage de nouveaux héros et l'amélioration de ceux que vous possédez déjà, vous pouvez également acheter des objets bonus pour vous aider à vaincre les vagues. Cœur pour soigner vos héros, Bombe pour blesser les ennemis.
+
+Constituez une équipe de héros uniques et puissants, survivez à toutes les saisons et relevez le défi de Bec du Devoir !

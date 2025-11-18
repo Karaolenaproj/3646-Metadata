@@ -1,0 +1,9 @@
+Beak of Duty ialah permainan pertahanan roguelite. Tugas anda? Harungi serangan yang akan datang melalui beberapa musim, setiap musim mempunyai musuh dan suaranya sendiri. 
+
+Pada mulanya anda mempunyai pasukan wira yang kecil tetapi semasa anda bermain dan memperoleh mata wang permainan, anda akan dapat membuka lebih banyak lagi dan mengembangkan senarai anda. Setiap wira mempunyai statistik dan kebolehan yang unik, setiap wira boleh dinaik taraf secara berasingan untuk meningkatkan lagi statistik mereka.
+
+Anda memulakan setiap peringkat dengan memilih dua wira pasukan permulaan anda, kemudian teruskan bertahan untuk 10 ombak, selepas setiap ombak naik tahap atau tambah wira ke kumpulan bertahan. Selepas mengalahkan bos pada gelombang sepuluh anda akan dapat meneruskan ke peringkat seterusnya. Ulang tiga kali, setiap satu lebih sukar daripada yang terakhir dan teruskan ke musim seterusnya. 
+
+Lengkapkan musim dan dengannya pencapaian untuk memperoleh lebih banyak syiling. Selain daripada membuka kunci wira baharu atau menaik taraf wira yang anda miliki, anda juga boleh membeli item bonus untuk membantu anda mengalahkan ombak. Hati untuk menyembuhkan wira anda, Bom untuk merosakkan musuh.
+
+Kumpul satu pasukan wira yang unik dan kuat, bertahan sepanjang musim dan tempuhi cabaran Paruh Tugas!
